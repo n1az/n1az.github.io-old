@@ -20,7 +20,7 @@
     "rigid body physics"
   ],
   "devDependencies": {
-    "eslint": "^6.3.0",
+    "eslint": "^10.4.0",
     "gulp": "^4.0.2",
     "gulp-bump": "^2.6.1",
     "gulp-conventional-changelog": "^2.0.35",
